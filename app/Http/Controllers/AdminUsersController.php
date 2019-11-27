@@ -13,6 +13,7 @@ use App\User;
 use App\Role;
 use App\Photo;
 
+
 class AdminUsersController extends Controller
 {
     /**
